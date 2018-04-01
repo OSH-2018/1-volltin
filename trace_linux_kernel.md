@@ -467,3 +467,7 @@ http://www.ruanyifeng.com/blog/2013/02/booting.html
 https://zh.wikipedia.org/zh-cn/%E7%9C%9F%E5%AF%A6%E6%A8%A1%E5%BC%8F
 
 https://zh.wikipedia.org/wiki/%E4%BF%9D%E8%AD%B7%E6%A8%A1%E5%BC%8F
+
+https://kernelnewbies.org/KernelHacking-HOWTO/Debugging_Kernel
+
+https://wiki.ubuntu.com/Kernel/KernelDebuggingTricks
